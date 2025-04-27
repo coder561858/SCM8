@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Say hello
-        run: echo "Welcome to our project! Thank you for contributing!."
+        run: echo "Welcome to our project! Thank you for contributing!"
